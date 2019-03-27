@@ -1,3 +1,13 @@
-# sp19-516-133
-
-Google VM Management and file management
+---
+owner:
+  firstname: 
+  lastname: 
+  hid: sp19-516-133
+  community: e516
+  semester: sp19
+section:
+  - title: conda
+project:
+  - title: Google VM and Storage management
+    url: https://github.com/cloudmesh-community/sp19-516-128/tree/master/project-code
+    docopt: https://github.com/cloudmesh-community/sp19-516-128/blob/master/project-code/Docopt_Storage_AWS_S3.py
