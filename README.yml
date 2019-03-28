@@ -1,13 +1,14 @@
 ---
 owner:
-  firstname: 
-  lastname: 
+  firstname: Aravind Kumar
+  lastname: Mannarswamy
   hid: sp19-516-133
   community: e516
   semester: sp19
 section:
-  - title: conda
+  - title: MongoDB
+  - chapter: Condo Installation
 project:
   - title: Google VM and Storage management
-    url: https://github.com/cloudmesh-community/sp19-516-128/tree/master/project-code
-    docopt: https://github.com/cloudmesh-community/sp19-516-128/blob/master/project-code/Docopt_Storage_AWS_S3.py
+    url: https://github.com/cloudmesh-community/sp19-516-132/tree/master/project-code/cloudmesh.gcloud
+    docopt: 
