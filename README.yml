@@ -7,7 +7,10 @@ owner:
   semester: sp19
 section:
   - title: MongoDB
-  - chapter: Condo Installation
+chapter:
+  - title: Condo Installation
+    url: https://github.com/cloudmesh/cloudmesh-conda
+
 project:
   - title: Google VM and Storage management
     url: https://github.com/cloudmesh-community/sp19-516-132/tree/master/project-code/cloudmesh.gcloud
