@@ -13,5 +13,4 @@ chapter:
 
 project:
   - title: Google VM and Storage management
-    url: https://github.com/cloudmesh-community/sp19-516-132/tree/master/project-code/cloudmesh.gcloud
-    docopt: 
+    code: https://github.com/cloudmesh-community/sp19-516-132/tree/master/project-code/cloudmesh.gcloud
