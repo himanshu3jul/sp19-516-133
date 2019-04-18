@@ -12,8 +12,7 @@ chapter:
     url: https://github.com/cloudmesh/cloudmesh-conda/blob/master/README.md
 
 project:
-  - title: Google VM and Storage management
+  - title: cloudmesh.gcloud
     code: https://github.com/cloudmesh-community/sp19-516-132/tree/master/project-code/cloudmesh.gcloud
     url: https://github.com/cloudmesh/cloudmesh-cloud/blob/master/README.md
-    pytest:
-      - TBD
+    pytest: https://github.com/cloudmesh-community/sp19-516-132/blob/master/project-code/cloudmesh.gcloud/tests/test_compute_google.py
