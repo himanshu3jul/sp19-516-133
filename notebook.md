@@ -1,3 +1,17 @@
+# Week 04/18/2019
+* Completed the suggestions on accepting parameter names
+* Documentation under progress
+
+# Week 03/28/2019
+* Initial review of the project
+* Showcased that google cloud VM can be created, run, shit down and be deleted from command line
+* Comments were given on accepting parameter names for the google cloud VM
+* Update the documentation
+
+
+# Starting 03/14/2019 to current
+* Project updates
+
 # Week 03/14/2019-03/28/2019
 
 # Week 02/19/2019-03/07/2019
