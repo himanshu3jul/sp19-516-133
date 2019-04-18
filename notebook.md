@@ -4,7 +4,7 @@
 
 # Week 03/28/2019
 * Initial review of the project
-* Showcased that google cloud VM can be created, run, shit down and be deleted from command line
+* Showcased that google cloud VM can be created, run, shut down and be deleted from command line
 * Comments were given on accepting parameter names for the google cloud VM
 * Update the documentation
 
