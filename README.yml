@@ -6,7 +6,8 @@ owner:
   community: e516
   semester: sp19
 section:
-  - title: MongoDB
+  - title: cloudmesh mongo db windows 10
+  - url: https://github.com/cloudmesh-community/book/issues/337
 chapter:
   - title: Condo Installation
     url: https://github.com/cloudmesh/cloudmesh-conda/blob/master/README.md
