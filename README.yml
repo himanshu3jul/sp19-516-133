@@ -6,9 +6,9 @@ owner:
   community: e516
   semester: sp19
 section:
-  - title: Cloudmesh Install documentation
+  - title: cloudmesh mongo db windows 10
     description: Added path installation comment for Windows 10
-    url: https://github.com/cloudmesh/cloudmesh-conda/blob/master/README.md
+    url: https://github.com/cloudmesh-community/book/issues/337
 chapter:
   - title: Condo Installation
     description: 
