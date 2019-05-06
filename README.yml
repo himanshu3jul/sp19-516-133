@@ -8,7 +8,7 @@ owner:
 section:
   - title: Cloudmesh Install documentation
     description: Added path installation comment for Windows 10
-    url: https://github.com/cloudmesh/cloudmesh-cloud/blob/master/docs-source/source/install.md#installation-of-mongod
+    url: https://github.com/cloudmesh/cloudmesh-cloud/blob/master/cloudmesh/mongo/MongoDBController.py
 chapter:
   - title: Condo Installation
     description: 
